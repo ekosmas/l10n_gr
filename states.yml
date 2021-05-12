@@ -1,5 +1,275 @@
 #Greece
-- name: Ain
+- name: Achaea
   country_id: '77'
   id: '101'
   abbr: 01
+
+- name: Aetolia-Acarnania
+  country_id: '77'
+  id: '102'
+  abbr: 02
+
+- name: Arcadia
+  country_id: '77'
+  id: '103'
+  abbr: 03  
+
+- name: Argolis
+  country_id: '77'
+  id: '104'
+  abbr: 04
+
+- name: Arta
+  country_id: '77'
+  id: '105'
+  abbr: 05
+
+- name: Athens Prefecture
+  country_id: '77'
+  id: '106'
+  abbr: 06
+
+- name: Boeotia
+  country_id: '77'
+  id: '107'
+  abbr: 07
+
+- name: Cephalonia
+  country_id: '77'
+  id: '108'
+  abbr: 08  
+
+- name: Chalkidiki
+  country_id: '77'
+  id: '109'
+  abbr: 09
+
+- name: Chania
+  country_id: '77'
+  id: '110'
+  abbr: 10
+
+- name: Chios
+  country_id: '77'
+  id: '111'
+  abbr: 11
+
+- name: Corfu (Kerkyra)
+  country_id: '77'
+  id: '112'
+  abbr: 12
+
+- name: Corinthia
+  country_id: '77'
+  id: '113'
+  abbr: 13  
+
+- name: Cyclades
+  country_id: '77'
+  id: '114'
+  abbr: 14
+
+- name: Dodecanese
+  country_id: '77'
+  id: '115'
+  abbr: 15
+
+- name: Drama
+  country_id: '77'
+  id: '116'
+  abbr: 16
+
+- name: East Attica
+  country_id: '77'
+  id: '117'
+  abbr: 17
+
+- name: Elis
+  country_id: '77'
+  id: '118'
+  abbr: 18  
+
+- name: Euboea
+  country_id: '77'
+  id: '119'
+  abbr: 19
+
+- name: Evros
+  country_id: '77'
+  id: '120'
+  abbr: 20
+
+- name: Evrytania
+  country_id: '77'
+  id: '121'
+  abbr: 21
+
+- name: Florina
+  country_id: '77'
+  id: '122'
+  abbr: 22
+
+- name: Grevena
+  country_id: '77'
+  id: '123'
+  abbr: 23  
+
+- name: Heraklion
+  country_id: '77'
+  id: '124'
+  abbr: 24
+
+- name: Imathia
+  country_id: '77'
+  id: '125'
+  abbr: 25
+
+- name: Ioannina
+  country_id: '77'
+  id: '126'
+  abbr: 26
+
+- name: Karditsa
+  country_id: '77'
+  id: '127'
+  abbr: 27
+
+- name: Kastoria
+  country_id: '77'
+  id: '128'
+  abbr: 28  
+
+- name: Kavala
+  country_id: '77'
+  id: '129'
+  abbr: 29
+
+- name: Kilkis
+  country_id: '77'
+  id: '130'
+  abbr: 30
+
+- name: Kozani
+  country_id: '77'
+  id: '131'
+  abbr: 31
+
+- name: Laconia
+  country_id: '77'
+  id: '132'
+  abbr: 32
+
+- name: Larissa
+  country_id: '77'
+  id: '133'
+  abbr: 33  
+
+- name: Lasithi
+  country_id: '77'
+  id: '134'
+  abbr: 34
+
+- name: Lefkada
+  country_id: '77'
+  id: '135'
+  abbr: 35
+
+- name: Lesbos
+  country_id: '77'
+  id: '136'
+  abbr: 36
+
+- name: Magnesia
+  country_id: '77'
+  id: '137'
+  abbr: 37
+
+- name: Messenia
+  country_id: '77'
+  id: '138'
+  abbr: 38
+
+- name: Mount Athos
+  country_id: '77'
+  id: '139'
+  abbr: 39
+
+- name: Pella
+  country_id: '77'
+  id: '140'
+  abbr: 40  
+
+- name: Phocis
+  country_id: '77'
+  id: '141'
+  abbr: 41
+
+- name: Phthiotis
+  country_id: '77'
+  id: '142'
+  abbr: 42
+
+- name: Pieria
+  country_id: '77'
+  id: '143'
+  abbr: 43
+
+- name: Piraeus
+  country_id: '77'
+  id: '144'
+  abbr: 44
+
+- name: Preveza
+  country_id: '77'
+  id: '145'
+  abbr: 45
+
+- name: Rethymno
+  country_id: '77'
+  id: '146'
+  abbr: 46
+
+- name: Rhodope
+  country_id: '77'
+  id: '147'
+  abbr: 47  
+
+- name: Samos
+  country_id: '77'
+  id: '148'
+  abbr: 48
+
+- name: Serres
+  country_id: '77'
+  id: '149'
+  abbr: 49
+
+- name: Thesprotia
+  country_id: '77'
+  id: '150'
+  abbr: 50
+
+- name: Thessaloniki
+  country_id: '77'
+  id: '151'
+  abbr: 51
+
+- name: Trikala
+  country_id: '77'
+  id: '152'
+  abbr: 52
+
+- name: West Attica
+  country_id: '77'
+  id: '153'
+  abbr: 53
+
+- name: Xanthi
+  country_id: '77'
+  id: '154'
+  abbr: 54
+
+- name: Zakynthos
+  country_id: '77'
+  id: '155'
+  abbr: 55
